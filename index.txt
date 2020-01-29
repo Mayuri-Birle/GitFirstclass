@@ -1,3 +1,4 @@
 Hello there!.....I am Mayuri.
 I have not yet understand git.
 I have successfully generated the SSH key
+I know how pull and push request.
